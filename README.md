@@ -24,10 +24,4 @@ https://drive.google.com/file/d/17ET_BHGeVueDgxhbbx-6rUoU-Xr2OSCb/view?usp=shari
 
 Please check report for more information.
 
-# Future Plans:
-
-The inference performance can be increased by applying model compression techniques. Thus, future plan is to compress model size by following techniques.
-1. Pruning
-3. Quantization
-3. Knowledge distillation
 
