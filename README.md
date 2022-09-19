@@ -1,4 +1,4 @@
-# Fire Detection
+# Fire Detection and alarming using Deep Learning and Edge computing
 
 Aim of this project is to develop a deep learning model to detect early fire on a edge device for laser machine applications.
 
