@@ -7,6 +7,7 @@ It has been achieved through below steps.
 2. Engineered fire features using OpenCV APIs
 3. Extended VGG16 model and retrained with fire dataset
 4. Evaluated and tested the model performance on PC
+5. Compressed model size by quantization technique
 5. Converted model to TFLite model and deployed it on Raaspberry PI3 board.
 6. Achieved inference performance of 20f/minute on RPi3 board.
 
